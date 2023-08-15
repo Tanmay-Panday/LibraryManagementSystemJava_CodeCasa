@@ -1,0 +1,15 @@
+add users to useridpw
+
+modify useridpw
+
+delete useridpw
+
+add books
+
+update books
+
+delete books
+
+add books
+960,544
+	480,272
